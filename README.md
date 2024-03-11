@@ -6,22 +6,27 @@ Some of the skills that will be demonstrated are:
 
 - Knowledge of the basic structure or boilerplate of HTML documents
 - Use of common HTML elements and their associated attributes, such as:
-    - Headings ```htm
+    - Headings 
+    ```htm
     <h1>...</h1>, <h2>...</h2>, <h3>...</h3>, etc.
     ```
-    - Paragraphs ```htm
+    - Paragraphs 
+    ```htm
     <p>...</p>
     ```
-    - Bold and Italicized text ```htm
+    - Bold and Italicized text 
+    ```htm
     <strong>...</strong>, <em>...</em>
     ```
-    - Ordered and Unordered lists ```htm
+    - Ordered and Unordered lists 
+    ```htm
     <ol>             <ul>
       <li>...</li>     <li>...</li>  
     <ol>             </ul>
     ```
-    - Links and Images ```htm
-    <a href="absolute or relative path">...</a> <img src="absolute or relative path">...</img>
+    - Links and Images 
+    ```htm
+    <a href="absolute or relative path">...</a> <img src="absolute or relative path">
     ```
 - Proficiency in writing good commit messages following the rule of doing atomic commits
 
